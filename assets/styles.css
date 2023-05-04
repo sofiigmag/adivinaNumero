@@ -1,0 +1,8 @@
+h1::after{content:"✨"}
+h1::before{content:"✨"}
+
+body{
+    font-family: 'Chicle', cursive;
+}
+
+
